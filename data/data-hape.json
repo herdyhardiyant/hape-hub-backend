@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Google Pixel 7A",
+        "price": 479,
+        "image": "https://media.wired.com/photos/645bd3a0065114c6bc308078/master/w_1920%2Cc_limit/Pixel-7A-Coral-Google-IO-2023-Gear.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Samsung Galaxy S23",
+        "price": 800,
+        "image": "https://media.wired.com/photos/63d982b96b5ef8378208e5c1/master/w_1920%2Cc_limit/Samsung-Galaxy-S23-Ultra-SOURCE-Samsung-Gear.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Asus Zenfone 9",
+        "price": 599,
+        "image": "https://media.wired.com/photos/634083ee81222da12cb0da11/master/w_1920%2Cc_limit/Asus-Zenfone-9-Gear.jpg"
+    }
+]
